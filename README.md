@@ -13,16 +13,17 @@ Ensure you have Python 3 installed on your system. You will also need to install
 
 ```bash
 pip install -r requirements.txt
+```
 Usage
 
     Open the Jupyter Notebook environment:
-    Bash
-
+```bash
     jupyter notebook
-
+```
     Open the provided .ipynb file.
 
-    Ensure that any target sample images (baseballplayer.jpg, cat.jpg, and car.jpg) are placed in the expected directory (/content/ if running in Google Colab,
+    Ensure that any target sample images (baseballplayer.jpg, cat.jpg, and car.jpg) are placed
+    in the expected directory (/content/ if running in Google Colab,
     or adjust the file paths accordingly for a local environment).
 
     Run the cells sequentially to load and render the images.
