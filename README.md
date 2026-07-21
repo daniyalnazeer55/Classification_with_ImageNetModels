@@ -16,14 +16,13 @@ pip install -r requirements.txt
 ```
 Usage
 
-    Open the Jupyter Notebook environment:
+Open the Jupyter Notebook environment:
 ```bash
-    jupyter notebook
+jupyter notebook
 ```
-    Open the provided .ipynb file.
+Open the provided .ipynb file.
 
-    Ensure that any target sample images (baseballplayer.jpg, cat.jpg, and car.jpg) are placed
-    in the expected directory (/content/ if running in Google Colab,
-    or adjust the file paths accordingly for a local environment).
-
-    Run the cells sequentially to load and render the images.
+Ensure that any target sample images (baseballplayer.jpg, cat.jpg, and car.jpg) are placed
+in the expected directory (/content/ if running in Google Colab,
+or adjust the file paths accordingly for a local environment).
+Run the cells sequentially to load and render the images.
