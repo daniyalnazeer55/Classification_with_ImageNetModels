@@ -8,8 +8,12 @@ Ensure you have Python 3 installed on your system. You will also need to install
 
 ## Installation & Requirements
 
-1. Clone or download this project directory.
-2. Install the required dependencies by running:
+1. Clone or download this project directory
+```bash
+git clone https://github.com/daniyalnazeer55/Classification_with_ImageNet_Models.git
+cd Classification_with_ImageNet_Models
+```   
+3. Install the required dependencies by running:
 
 ```bash
 pip install -r requirements.txt
